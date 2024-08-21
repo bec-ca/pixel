@@ -1,0 +1,8 @@
+cpp_library:
+  name: image
+  sources: image.cpp
+  headers: image.hpp
+  libs:
+    /bee/file_path
+    /bee/file_writer
+
